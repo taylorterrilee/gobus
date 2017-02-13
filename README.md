@@ -1,2 +1,0 @@
-# gobus
-LA Bus Tracker
