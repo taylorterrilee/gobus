@@ -66,14 +66,14 @@ a:hover {
 
 /*Jumbotron*/
 .jumbotron {
-    background-image: url("/Users/TerriLeeTaylor/Desktop/LA Bus Tracker/Files/map-bg.png");
+    background-image: url("https://taylorterrilee.github.io/gobus/files/map-bg.png");
     background-repeat: no-repeat; 
     text-align: center;
     background-attachment: fixed;
     height: 100vh;
 }
 #fade {
-    background-image: url("/Users/TerriLeeTaylor/Desktop/LA Bus Tracker/Files/fade.png");
+    background-image: url("https://taylorterrilee.github.io/gobus/files/fade.png");
     background-repeat: no-repeat; 
     background-position: bottom center;
     height: 100vh;
@@ -134,7 +134,7 @@ a:hover {
 
 /*Third Panel*/
 #features {
-    background-image: url("/Users/TerriLeeTaylor/Desktop/LA Bus Tracker/Files/features-bg.png");
+    background-image: url("https://taylorterrilee.github.io/gobus/files/features-bg.png");
     background-repeat: no-repeat; 
     background-attachment: fixed;
     background-size: cover;
@@ -191,7 +191,7 @@ a:hover {
 
 /*Fourth Panel*/
 #action {
-    background-image: url("/Users/TerriLeeTaylor/Desktop/LA Bus Tracker/Files/action-bg.png");
+    background-image: url("https://taylorterrilee.github.io/gobus/files/action-bg.png");
     background-repeat: no-repeat; 
     background-attachment: fixed;
     background-size: cover;
