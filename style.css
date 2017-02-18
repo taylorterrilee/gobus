@@ -222,6 +222,9 @@ footer {
     #introText {
        margin-top: 15vh;
     }
+    .navbar-brand img {
+        height: 50px;
+    }
     /*Jumbotron*/
     #Mockups {
         padding: 0% 10%;
@@ -242,7 +245,12 @@ footer {
     /*Features*/
     #track, #schedule, #reload{
         margin: 10%;
-        font-size: .8em
+        font-size: .8em;
+    }
+    .features {
+        padding-top: 10%;
+        padding-bottom: 10%;
+        background-attachment: scroll;
     }
     
     /*Fourth Panel*/
