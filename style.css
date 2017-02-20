@@ -256,6 +256,7 @@ footer {
     /*Fourth Panel*/
     #action {
         font-size: .8em;
+        background-attachment: scroll;
     }
       
 }
