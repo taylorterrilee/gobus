@@ -257,6 +257,7 @@ footer {
     #action {
         font-size: .8em;
         background-attachment: scroll;
+        padding: 10%;
     }
       
 }
